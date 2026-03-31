@@ -19,3 +19,11 @@ ll
 rev
 stackarray
 star
+# Ignore all files without extension (compiled binaries)
+*
+
+# Allow only these files
+!*.cpp
+!*.h
+!*.md
+!*.gitignore
