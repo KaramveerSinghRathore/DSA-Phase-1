@@ -1,0 +1,21 @@
+# Mac system files
+.DS_Store
+
+# Compiled files
+*.out
+*.exe
+
+# Debug files
+*.dSYM/
+
+# Binaries
+RemoveDuplicates
+SellStock
+Arrayops
+BinarySearch
+Bubble
+Selection
+ll
+rev
+stackarray
+star
